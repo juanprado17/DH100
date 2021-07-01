@@ -31,5 +31,6 @@ were inported in order to be able to work with these datasets.
 
 Other Links for this project:
 
-- [Slideshow]()
+- [Poster](https://drive.google.com/file/d/1tH7cfsaGsd22xrMe5jVZEUMZWwBQBEfJ/view?usp=sharing)
+- [Slideshow](https://docs.google.com/presentation/d/1XNUmTizNbFcnU3NeSgepd9K3nBNxpSweaSpiI6nDbq0/edit?usp=sharing)
 - [Video]()
