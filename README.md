@@ -2,8 +2,8 @@
 ### Overview
   In this repository you will find one of my first projects, that includes the analysis of Major League Soccer teams from 2007 through 2017. There are three main research questions that were proposed. Those qustions were:
   
-- Which  position generated the highest salary over time in the MLS (2007-2017)?
-- Which player in the MLS earned the highest salary (2007-2017)?
+- Which year and position generated the highest salary over time in the MLS (2007-2017)?
+- Which player and in what year earned the highest salary (2007-2017)?
 - Comparatively as a whole, are MLS teams earinng the same total salaries over the years or are there some noticable trends (2007-2017)?
 
 Most of the data sets for each year had missing data, so in order to make the data easier to work with the rows with missing data were disregarded. In order to have those certain rows deleted, the .dropna() function was applied to all of the data sets. Once the rows that had at least one missing value were removed from the data we removed one out of the six columns of the datasets. In order to drop the column, the .drop() function was used. The columns that came with the original dataset were:
