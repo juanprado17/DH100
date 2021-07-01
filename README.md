@@ -6,7 +6,7 @@
 - Which player and in what year earned the highest salary (2007-2017)?
 - Comparatively as a whole, are MLS teams earinng the same total salaries over the years or are there some noticable trends (2007-2017)?
 
-Most of the data sets for each year had missing data, so in order to make the data easier to work with the rows with missing data were disregarded. In order to have those certain rows deleted, the .dropna() function was applied to all of the data sets. Once the rows that had at least one missing value were removed from the data we removed one out of the six columns of the datasets. In order to drop the column, the .drop() function was used. The columns that came with the original dataset were:
+Most of the data sets for each year had missing data, so in order to make the data easier to work with the rows with missing data were disregarded. In order to have those certain rows deleted, the .dropna() function was applied to all of the data sets. The columns that came with the original dataset were:
 
 - 'club'
 - 'last_name'
@@ -14,9 +14,9 @@ Most of the data sets for each year had missing data, so in order to make the da
 - 'base_salary'
 - 'guaranteed_copensation'
 
-The column that was removed was the 'base_salary'. The reason why the 'base_salary' was removed was because looking what each player was payed overall is what was decided to use for these research questions. 
+For all of the research questions only three columns out of the original six were used which include: ‘club’, ‘position’, and ‘guarenteed_compensation’.
 
-Each research question contain their own vizualizations in order to help the reader understand what is trying to be told. The main types of vizualizations that were used for the three research questions were bar graphs and scatter plots.
+Each research question contains their own vizualizations in order to help the reader understand what is trying to be told. The main types of vizualizations that were used for the three research questions were bar graphs and scatter plots.
 
 Here is a link to a [StoryBoard](https://drive.google.com/file/d/1S6sjP8Nu459qbW2ExLQuDu7OG1KAopt5/view?usp=sharing) created for this project to get a glimpse of the overall work.
 
