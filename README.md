@@ -18,7 +18,7 @@ The column that was removed was the 'base_salary'. The reason why the 'base_sala
 
 Each research question contain their own vizualizations in order to help the reader understand what is trying to be told. The main types of vizualizations that were used for the three research questions were bar graphs and scatter plots.
 
-Here is a link to a [StoryBoard](https://drive.google.com/drive/u/0/folders/1YgCE445Fr2Pd9mwlGtht3Cl1VHNae-Ef) created for this project to get a glimpse of the overall work.
+Here is a link to a [StoryBoard](https://drive.google.com/file/d/1S6sjP8Nu459qbW2ExLQuDu7OG1KAopt5/view?usp=sharing) created for this project to get a glimpse of the overall work.
 
 ## Tools and Resources
 For this project the main workspace was in Google Colab. Tools such as:
