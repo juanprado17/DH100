@@ -1,4 +1,4 @@
-# Major League Soccer (MLS) Earnigns (2007-2017)
+# Major League Soccer (MLS) Earnings (2007-2017)
 ### Overview
   In this repository you will find one of my first projects, that includes the analysis of Major League Soccer teams from 2007 through 2017. There are three main research questions that were proposed. Those qustions were:
   
